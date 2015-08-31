@@ -1,7 +1,17 @@
 Platform-Building Cheat Sheet
 =============================
 
-0. Know what is meant by the term **'Platform'**. Know what is being built.
+First up, know what is meant by the term **'Platform'** for your organization. The following
+ground rules view the platform as the server-side, back-end data and functionality, leaving
+the user experience to be crafted, whether mobile, web or other, on top of that business 
+functionality.
+
+If your organization defines the 'platform' as a specific user experience or ecosystem,
+your ground rules, technology stack and and building endeavor may be decidedly different
+than these.
+
+Here are the 10 Commandments or Platform Ground Rules:
+
 0. **Mobile** is a first-class citizen and consumer of the platform.
 0. All platform services will expose their data and functionality via a complete set of **RESTful APIs**. 
 0. Developers will be able to access all APIs using a **single developer key**.

@@ -11,9 +11,12 @@ of exposing and growing the digital business model and its offerings. So, the fo
 define the platform as the digital server-side, back-end data and functionality, leaving the user
 experiences to be crafted (whether mobile, web or other) on top of that business functionality.
 
-This API-centric definition of 'platform' enables rapid user experience revision, more consistent user
-experience across devices, better channel adaptation, faster and cheaper third-party integrations,
-and increased innovation capabilities.
+This API-centric definition of 'platform':
+* Enables rapid user experience revision
+* More consistent user experience across devices
+* Better channel adaptation
+* Faster and cheaper third-party integrations
+* Increased innovation capabilities.
 
 Platform Ground Rules
 ---------------------

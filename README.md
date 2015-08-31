@@ -25,15 +25,15 @@ Platform Ground Rules
 0. Developers will be able to access all APIs using a **single developer key**.
 	* Simplifies security and access to all capabilities.
 0. All service interfaces and events will be designed from the ground up to be **public facing**.
-	* Pressure here causes design for ease of use, flexibility and reuse.
+	* Causes design for ease of use, flexibility and reuse.
 0. There is a **single token source** and format for all APIs.
-	* A must-have for ease of use and for all functionality to be available to consumers.
+	* Assists in ease of use and ensures all functionality is available to consumers.
 0. The platform will notify interested observers of all resource state changes via **fully-composed events**.
-	* Observability of data is essential, both by internal teams and external third-parties.
+	* Enables synchronization asynchronously.
 0. All APIs use a **single identity** to represent the consumer / user.
 	* Enables analytics and reasoning about consumers.
 0. All new APIs have a **consistent look and feel**, and are documented at a single, publicly-available location.
-	* Maximizes reuse.
+	* Maximizes reuse and ease of use.
 0. No private interfaces. **No backdoors**. No shared databases across teams (Observe 'Bounded Contexts').
 	* Ensures public interfaces are sound.
 0. A distributed system (multi-node, multi-zone, and multi-region) requires a discipline towards **resilience**.

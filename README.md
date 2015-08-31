@@ -41,4 +41,4 @@ Platform Ground Rules
 0. No private interfaces. **No backdoors**. No shared databases across teams (Observe 'Bounded Contexts').
 	* Ensures the public interfaces are sound.
 0. APIs are deployed in a **distributed, always-on** architecture (multi-node, multi-zone, and multi-region) with a discipline towards resilience.
-	* Horizontal scale, global reach. Account for inevitable failures.
+	* Horizontal scale on commodity hardware, global reach. Account for the inevitable failures.

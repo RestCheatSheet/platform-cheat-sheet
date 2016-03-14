@@ -24,12 +24,12 @@ This API-centric definition of 'platform' enables:
 
 1. **Mobile** applications are a first-class citizen and consumer of the platform.
 	* Making mobile a priority increases ease of use and adoption for everyone.
-1. The platform exposes its data and functionality via a complete set of **RESTful APIs**. 
+1. The platform exposes its data and functionality via a complete set of **RESTful APIs**.
 	* An API-based strategy maximizes reuse and flexibility.
-1. Developers access all APIs using a **single developer key**.
-	* Simplifies security and access to all capabilities.
 1. All service interfaces and events are designed from the ground up to be **public facing**.
 	* Causes design for ease of use, flexibility and reuse.
+1. Each team of developers access all APIs using their team's own **registered developer key**.
+		* Improves security, auditability.
 1. There is a **single token source** and format for all APIs.
 	* Assists in ease of use and ensures all functionality is available to consumers.
 1. The platform will notify interested observers of all resource state changes via **fully-composed events**.

@@ -29,7 +29,7 @@ This API-centric definition of 'platform' enables:
 1. All service interfaces and events are designed from the ground up to be **public facing**.
 	* Causes design for ease of use, flexibility and reuse.
 1. Each team of developers access all APIs using their team's own **registered developer key**.
-		* Improves security, auditability.
+	* Improves security, auditability.
 1. There is a **single token source** and format for all APIs.
 	* Assists in ease of use and ensures all functionality is available to consumers.
 1. The platform will notify interested observers of all resource state changes via **fully-composed events**.

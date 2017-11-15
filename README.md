@@ -1,6 +1,6 @@
 See also: [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet#api-design-cheat-sheet)
 
-#Platform-Building Cheat Sheet
+# Platform-Building Cheat Sheet
 
 First off, we need to understand what is meant by the term **'platform'** for the organization.
 In todays world, the term 'platform' is such an overused buzzword that it is largely meaningless.
@@ -20,7 +20,7 @@ This API-centric definition of 'platform' enables:
 * Faster and cheaper third-party integrations
 * Increased innovation capabilities.
 
-##Platform Ground Rules
+## Platform Ground Rules
 
 1. **Mobile** applications are a first-class citizen and consumer of the platform.
 	* Making mobile a priority increases ease of use and adoption for everyone.
